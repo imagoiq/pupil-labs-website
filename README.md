@@ -1,4 +1,5 @@
-# Pupil Labs Website
+# Fork of Pupil Labs Website to add RSS
+
 [![Build Status](https://travis-ci.org/pupil-labs/pupil-labs-website.svg?branch=master)](https://travis-ci.org/pupil-labs/pupil-labs-website)
 
 ### Dependencies
